@@ -16,24 +16,3 @@
 │ • CI/CD Automation                          │
 │                                             │
 ├─────────────────────────────────────────────┤
-│                                             │
-│ 🛠️ Technologies                            │
-│                                             │
-│ AWS • Terraform • Kubernetes • Docker       │
-│ Jenkins • GitLab CI/CD • Linux              │
-│                                             │
-├─────────────────────────────────────────────┤
-│                                             │
-│ 📂 Featured Projects                        │
-│                                             │
-│ AWS Infrastructure                          │
-│ Terraform Automation                         │
-│ Kubernetes Projects                          │
-│ CI/CD Pipelines                              │
-│                                             │
-├─────────────────────────────────────────────┤
-│                                             │
-│ 🔗 Connect                                   │
-│ LinkedIn | GitHub | Email                   │
-│                                             │
-└─────────────────────────────────────────────┘
