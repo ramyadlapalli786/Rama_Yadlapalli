@@ -1,18 +1,9 @@
-┌─────────────────────────────────────────────┐
-│                                             │
-│  Hi 👋, I'm Yadlapalli Rama Durga Tataji    │
-│                                             │
-│        DevOps & Cloud Engineer              │
-│                                             │
-│  AWS | Terraform | Ansible | Jenkins        │
-│  Gitlab | Github actions | Linux | GitLab   │
-├─────────────────────────────────────────────┤
-│                                             │
-│ About Me                                    │
-│                                             │
-│ • AWS & DevOps                              │
-│ • Infrastructure as Code                    │
-│ • Kubernetes & Containers                   │
-│ • CI/CD Automation                          │
-│                                             │
-├─────────────────────────────────────────────┤
+HI My self Yadlapalli Rama Durga Tataji
+
+Working as Senior Cloud and DevOps engineer
+
+I have hands-on experience on Linux, Terraform, Ansible
+
+Jenkins, Github actions, Docker, Kubernetes and Observability tools. 
+
+Looking for DevSecOps opportunities
